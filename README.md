@@ -5,8 +5,8 @@ This repository contains the AutoHotKey Scripts for doing some tasks using shorc
 Read more about AutoHotKey [here](https://www.autohotkey.com/)
 ## List of Scripts
 
-- [Copy and Search on Google]()
-- [Open a link in new tab]()
+- [Copy and Search on Google](https://github.com/iatharva/AutoHotkey-Scripts/tree/main/Copy%20and%20Search%20on%20Google)
+- [Open a link in new tab](https://github.com/iatharva/AutoHotkey-Scripts/tree/main/Open%20Link%20in%20new%20Tab)
 
 ## How to use
 
